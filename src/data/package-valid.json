@@ -1,0 +1,25 @@
+{
+  "name": "json-schema-validator-ajv-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-arriaga/json-schema-validator-ajv-example.git"
+  },
+  "keywords": [
+    "json schema example"
+  ],
+  "author": "Alex Arriaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-arriaga/json-schema-validator-ajv-example/issues"
+  },
+  "homepage": "https://github.com/alex-arriaga/json-schema-validator-ajv-example#readme",
+  "devDependencies": {
+    "ajv": "^6.12.6"
+  }
+}
